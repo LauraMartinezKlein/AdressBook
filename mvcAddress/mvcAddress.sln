@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appAddress.Android", "appAd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appAddress.iOS", "appAddress\appAddress.iOS\appAddress.iOS.csproj", "{C2F23EA4-6C15-465C-A526-938457E3E634}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appAddress", "appAddress\appAddress\appAddress.csproj", "{5DE637A3-BC23-42AE-928A-C8975A2A0336}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "appAddress", "appAddress\appAddress\appAddress.csproj", "{5DE637A3-BC23-42AE-928A-C8975A2A0336}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
